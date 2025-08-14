@@ -90,6 +90,7 @@ The winning solution employs a **stacked ensemble meta-model** combining six tre
 - Explored temporal and contextual features
 
 ## Performance Comparison
+<img width="1535" height="832" alt="Screenshot 2025-08-14 111823" src="https://github.com/user-attachments/assets/0ec02970-189f-4fb2-82ce-f2d3b216b6f9" />
 
 | Approach | RMSE Score | Key Features |
 |----------|------------|--------------|
