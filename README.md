@@ -121,7 +121,6 @@ Our ensemble model revealed the most influential features for predicting music p
 - **Dimensionality Reduction**: PCA for feature compression
 - **Categorical Encoding**: One-hot encoding, label encoding
 
-```
 
 ## Key Findings
 
