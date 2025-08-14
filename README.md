@@ -121,26 +121,6 @@ Our ensemble model revealed the most influential features for predicting music p
 - **Dimensionality Reduction**: PCA for feature compression
 - **Categorical Encoding**: One-hot encoding, label encoding
 
-## Project Structure
-```
-kaggle-mlx2-competition/
-├── 6 model ensemble/              # Best performing approach
-│   ├── 9.0035.ipynb              # Main ensemble implementation
-│   └── Screenshot 2025-08-14 010640.png
-├── notebooks-chandupa/            # Alternative approaches
-│   ├── notebook1.ipynb           # XGBoost approach
-│   ├── notebook2.ipynb           # Feature engineering
-│   ├── notebook3.ipynb           # Model comparison
-│   ├── notebook4.ipynb           # CatBoost implementation
-│   ├── others code/              # Additional approaches
-│   │   └── main.ipynb            # Advanced feature engineering
-│   └── [various model files]     # Saved models and predictions
-├── Data/                         # Dataset files
-│   ├── train.csv                 # Training dataset
-│   └── test.csv                  # Test dataset
-├── Research-paper/               # Published research findings
-│   └── Group 18 Research Paper.pdf
-└── README.md                     # This file
 ```
 
 ## Key Findings
